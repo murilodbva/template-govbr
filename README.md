@@ -13,6 +13,8 @@ O site do projeto para a criação do template do governo brasileiro em Joomla �
 
 https://github.com/joomlagovbr/joomla-3.x
 
+## Layout
+
 Também usei o repositório layout do projeto e criei o templae partindo dele:
 
  layout_padraogoverno03.zip - este foi partindo do layout
