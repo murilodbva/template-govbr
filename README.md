@@ -1,4 +1,4 @@
-# template-govbr
+# Template do Joomla para os portais do Governo Brasileiro
 Este não é um template comum de Joomla. É livre e qualquer um pose usar, mas foi criado para os portais do governof federal brasileiro, que usam o CMS Joomla, para a versão 3.7.4 e outras versões.
 
 Como me parece já ser o momento de se estar fazendo a atualização de templates para quem instalou usando o quickstart há algum tempo, então tomei a iniciativa de isolar o tempalte original e criar um instalador somente para o template.
