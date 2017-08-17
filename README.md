@@ -7,3 +7,9 @@ Chamei de tpl_padraogoverno03 para que não conflite com o existente e assim pod
 
 ## Instalação
 Instalei normalmente como qualquer extensão do Joomla e depois de instalar mude para que seja o default e atribua os itens de menu.
+
+
+O site do projeto para a criação do template do governo brasileiro em Joomla é este:
+https://github.com/joomlagovbr/joomla-3.x
+
+Também usei o repositório layout e criei o também o templae partindo dele.
