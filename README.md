@@ -17,4 +17,6 @@ Também usei o repositório layout do projeto e criei o templae partindo dele:
 
  layout_padraogoverno03.zip - este foi partindo do layout
   
-Os dois funcionaram da mesma forma, mas declaro que fiz poucos testes.
+Os dois funcionaram da mesma forma, mas este do layout é mais antigo. 
+
+Está mais atualizado o tpl_padraogoverno03.
