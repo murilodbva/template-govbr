@@ -3,7 +3,7 @@ Este não é um template comum de Joomla. É livre e qualquer um pose usar, mas 
 
 Como me parece já ser o momento de se estar fazendo a atualização de templates para quem instalou usando o quickstart há algum tempo, então tomei a iniciativa de isolar o tempalte original e criar um instalador somente para o template.
 
-Chamei de tpl_padraogoverno03 para que não conflite com o existente e assim poder manter os dois.
+Chamei de tpl_padraogoverno03 para que não conflite com o existente e assim possamos manter o existente e poder voltar ao mesmo caso desejemos.
 
 ## Instalação
 Instalei normalmente como qualquer extensão do Joomla e depois de instalar mude para que seja o default e atribua os itens de menu.
