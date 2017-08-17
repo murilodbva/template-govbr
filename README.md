@@ -10,6 +10,7 @@ Instalei normalmente como qualquer extensão do Joomla e depois de instalar mude
 
 
 O site do projeto para a criação do template do governo brasileiro em Joomla é este:
+
 https://github.com/joomlagovbr/joomla-3.x
 
 Também usei o repositório layout e criei o também o templae partindo dele.
